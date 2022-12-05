@@ -55,3 +55,8 @@ git add --all
 git commit -m "your commit message goes in between these quotation marks"
 git push origin YOUR-GITHUB-USERNAME-GOES-HERE
 ```
+
+
+NOTES: Had to change the message for all caps and question mark, the "Calm down, I know what I'm doing!" Did not recognize as passed even when copied and pasted.
+
+The message for Test 4 in the test_bob.rb file was inaccurate.
