@@ -43,4 +43,5 @@ class HashAsIndexTest < Minitest::Test
     array = [5, 2, 9, 3, 0, 4]
     assert_equal false, two_sum(array)
   end
+  
 end
