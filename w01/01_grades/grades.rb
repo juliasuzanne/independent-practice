@@ -33,8 +33,6 @@ def final_grade(array)
   end
 
 return grade
-  # This method currently has no code.
-  # Your job is to write the code to get the method to work!
 
 end
 
